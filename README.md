@@ -3,6 +3,7 @@ A jQuery plugin to add animation events when you click. This has the dual purpos
 
 ##Usage
 Include the yuki.js file in your HTML file.
+
 	<script src="yuki.js"></script>
 
 Add the Yuki text decoration to a jQuery object.
